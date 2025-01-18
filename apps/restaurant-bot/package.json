@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "alexa": {
-    "applicationId": "amzn1.ask.skill.150e0696-bfbe-4552-8ae7-f8a6b27482b7"
+    "applicationId": "amzn1.ask.skill.76b94c1f-e42d-4f02-bc54-c0726a5610e7"
   },
   "author": "",
   "license": "ISC",
