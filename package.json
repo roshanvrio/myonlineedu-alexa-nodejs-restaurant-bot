@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.cee84add-1ffe-4fdd-9a6b-1b10fa2fcd2a"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
